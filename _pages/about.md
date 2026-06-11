@@ -32,7 +32,7 @@ redirect_from:
 
   Jiachi Chen, <u>Qingyuan Zhong</u>, Yanlin Wang, Kaiwen Ning, Yongkun Liu, Zenan Xu, Zhe Zhao, Ting Chen, Zibin Zheng
 
-  [The 39th ACM/IEEE International Conference on Automated Software Engineering **(ASE'24), CCF A**].
+  [The 39th ACM/IEEE International Conference on Automated Software Engineering **(ASE'24), CCF A**]
 
 
 - **Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**
@@ -41,17 +41,18 @@ redirect_from:
 
   [The 46th International Conference on Software Engineering **(ICSE'25), CCF A**]
 
+- **MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**
+
+  Kaiwen Ning, Jiachi Chen, <u>Qingyuan Zhong</u>, Tao Zhang, Yanlin Wang, Wei Li, Yu Zhang, Weizhe Zhang, Zibin Zheng
+
+  [Transactions on Software Engineering and Methodology, **(TOSEM'25), CCF A**]
+
 - **Towards an Understanding of Large Language Models in Software Engineering Tasks**
 
   Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Jiachi Chen, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
 
   [Empirical Software Engineering (EMSE'24), CCF B]
 
-- **MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**
-
-  Kaiwen Ning, Jiachi Chen, <u>Qingyuan Zhong</u>, Tao Zhang, Yanlin Wang, Wei Li, Yu Zhang, Weizhe Zhang, Zibin Zheng
-
-  [arXiv:2408.01354, under review]
 
 
 **学术服务：**
@@ -60,6 +61,7 @@ redirect_from:
 
 **获奖荣誉：**
 <!-- - 2025：ETH HANGZHOU HACKATHON AI x Crypto 赛道 前13名 -->
+- 2026：中山大学优秀毕业生
 - 2025：美团人才计划 北斗计划（大模型基础算法方向）
 - 2024、2025：研究生国家奖学金 推荐名额
 - 2024、2025：中山大学研究生一等奖学金
