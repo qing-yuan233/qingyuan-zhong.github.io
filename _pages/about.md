@@ -1,6 +1,9 @@
 ---
-permalink: /
+permalink: /zh/
 title: "钟青沅（Qingyuan Zhong）"
+lang: zh-CN
+language_switch_url: /
+language_switch_label: English
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +16,8 @@ redirect_from:
 - **中山大学**，2023—2026，软件工程，工学硕士
 - **东华大学**，2019—2023，软件工程，工学学士
 
-**实习经历：**
+**实习/工作经历：**
+- 2026 - 至今：中国南方电力调度控制中心
 - 2024 — 2025：Tencent 腾讯 TEG，[2024基础平台技术犀牛鸟专项研究计划](https://www.wizsci.com/project/detail/1519)，大语言模型安全算法实习研究员
 
 **科研项目：**

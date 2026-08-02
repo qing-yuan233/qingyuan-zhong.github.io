@@ -3,7 +3,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav{% if page.language_switch_url %} greedy-nav--language{% endif %}">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
@@ -17,6 +17,9 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        {% if page.language_switch_url and page.language_switch_label %}
+          <a class="masthead__language-switch" href="{{ page.language_switch_url | relative_url }}" hreflang="{% if page.lang == 'zh-CN' %}en{% else %}zh-CN{% endif %}" lang="{% if page.lang == 'zh-CN' %}en{% else %}zh-CN{% endif %}">{{ page.language_switch_label }}</a>
+        {% endif %}
       </nav>
     </div>
   </div>

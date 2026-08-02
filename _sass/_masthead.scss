@@ -56,3 +56,22 @@
     font-weight: 700;
   }
 }
+
+.masthead__language-switch {
+  position: absolute;
+  top: 0.2rem;
+  right: 0;
+  margin: 0 !important;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 0.35rem 0.7rem !important;
+  line-height: 1.2;
+}
+
+.greedy-nav--language {
+  padding-right: 5rem;
+
+  > button {
+    right: 5rem;
+  }
+}
