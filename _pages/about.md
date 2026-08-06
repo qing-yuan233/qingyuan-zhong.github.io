@@ -10,19 +10,18 @@ redirect_from:
   - /about.html
 ---
 
-我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士三年级。我的导师是[陈嘉弛](https://jiachi-chen.github.io/)副教授和[王焱林](https://yanlin.info/)副教授。我的研究方向和兴趣为 Large Language Model (LLM) Safety，Software Engineering 和 Vocal Music。
+我是**钟青沅（Qingyuan Zhong）**，毕业于中山大学软件工程学院。硕士阶段师从[陈嘉弛](https://jiachi-chen.github.io/)副教授和[王焱林](https://yanlin.info/)副教授。我的研究方向和兴趣为 Large Language Model (LLM) Safety，Software Engineering 和 Vocal Music。
 
 **教育经历：**
 - **中山大学**，2023—2026，软件工程，工学硕士
 - **东华大学**，2019—2023，软件工程，工学学士
 
 **实习/工作经历：**
-- 2026 - 至今：中国南方电力调度控制中心
+- 2026 — 至今：中国南方电力调度控制中心
 - 2024 — 2025：Tencent 腾讯 TEG，[2024基础平台技术犀牛鸟专项研究计划](https://www.wizsci.com/project/detail/1519)，大语言模型安全算法实习研究员
 
 **科研项目：**
 - 2025，大语言模型安全评估测试基准 [SafetyBench](https://github.com/thu-coai/SafetyBench) Contributor
-
 - 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯犀牛鸟基金项目
 - 2024 — 2025，安全垂类大模型研发，腾讯犀牛鸟基金项目
 - 2023 — 2024，基于NLP和程序分析的DApp前后端不一致问题检测，蚂蚁集团科研横项
@@ -57,7 +56,21 @@ redirect_from:
 
   [Empirical Software Engineering (EMSE'24), CCF B]
 
+- **SafeGuide: From Refusal to Positive Guidance A Large-Scale Bilingual Dataset for LLM Safety Alignment**
 
+  <u>Qingyuan Zhong</u>, Zhan Yu, Jing Zhao, Hao Li, Zhe Zhao, Yanlin Wang, Zhenxiang Yan, Jiachi Chen
+
+  [Tencent KM 社区｜历史最高热度全站 Top2🔥]
+
+- **Patching the Short Board: Improving LLM Reliability via Tail-Aware Distributional Reinforcement Learning**
+
+  [coming soon...]
+
+- **Characterizing Real-World Defects in Multi-Agent Systems via LLM-Driven Issue Analysis**
+
+  Yifan Cheng, Yihua Chen, <u>Qingyuan Zhong</u>, Jiashuo Zhang, Yanlin Wang, Ting Chen, Jiachi Chen
+
+  [coming soon...]
 
 **学术服务：**
 - 2025 — 至今：Chinese Journal of Electronics (CJE) 审稿人
@@ -128,11 +141,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------

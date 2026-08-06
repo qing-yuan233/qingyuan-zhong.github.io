@@ -7,7 +7,7 @@ language_switch_label: 中文
 author_profile: true
 ---
 
-I am **Qingyuan Zhong**, a third-year master's student at the School of Software Engineering, Sun Yat-sen University. I am advised by Associate Professor [Jiachi Chen](https://jiachi-chen.github.io/) and Associate Professor [Yanlin Wang](https://yanlin.info/). My research interests include Large Language Model (LLM) Safety, Software Engineering, and Vocal Music.
+I am **Qingyuan Zhong**, a graduate of the School of Software Engineering at Sun Yat-sen University. During my master's studies, I was advised by Associate Professor [Jiachi Chen](https://jiachi-chen.github.io/) and Associate Professor [Yanlin Wang](https://yanlin.info/). My research interests include Large Language Model (LLM) Safety, Software Engineering, and Vocal Music.
 
 **Education**
 
@@ -54,6 +54,22 @@ I am **Qingyuan Zhong**, a third-year master's student at the School of Software
   Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Jiachi Chen, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
 
   Empirical Software Engineering (**EMSE 2024, CCF B**)
+
+- **SafeGuide: From Refusal to Positive Guidance A Large-Scale Bilingual Dataset for LLM Safety Alignment**
+
+  <u>Qingyuan Zhong</u>, Zhan Yu, Jing Zhao, Hao Li, Zhe Zhao, Yanlin Wang, Zhenxiang Yan, Jiachi Chen
+
+  Tencent KM Community — No. 2 most popular post of all time sitewide 🔥
+
+- **Patching the Short Board: Improving LLM Reliability via Tail-Aware Distributional Reinforcement Learning**
+
+  Coming soon...
+
+- **Characterizing Real-World Defects in Multi-Agent Systems via LLM-Driven Issue Analysis**
+
+  Yifan Cheng, Yihua Chen, <u>Qingyuan Zhong</u>, Jiashuo Zhang, Yanlin Wang, Ting Chen, Jiachi Chen
+
+  Coming soon...
 
 **Academic Service**
 
